@@ -1,4 +1,4 @@
-# malloc Assignment
+# Malloc Assignment
 
 ## Description
 
